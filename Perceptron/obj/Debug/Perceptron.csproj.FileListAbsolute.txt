@@ -1,0 +1,38 @@
+c:\users\obet\documents\visual studio 2015\Projects\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\Obet\documents\visual studio 2015\Projects\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Obet\documents\visual studio 2015\Projects\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\Users\Obet\documents\visual studio 2015\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\Obet\documents\visual studio 2015\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Obet\documents\visual studio 2015\Projects\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+D:\Dano\Escritorio\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+D:\Dano\Escritorio\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\mscorlib.dll
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\es\mscorlib.resources.dll
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\normidna.nlp
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\normnfc.nlp
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\normnfd.nlp
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\normnfkc.nlp
+D:\Dano\Escritorio\Perceptron\Perceptron\bin\Debug\normnfkd.nlp
+D:\Dano\Escritorio\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+D:\Dano\Escritorio\Perceptron\Perceptron\obj\Debug\Perceptron.MDIParent1.resources
+D:\Dano\Escritorio\Perceptron\Perceptron\obj\Debug\Perceptron.WindowRecognition.resources
+D:\Dano\Escritorio\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\mscorlib.dll
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\es\mscorlib.resources.dll
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\normidna.nlp
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\normnfc.nlp
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\normnfd.nlp
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\normnfkc.nlp
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\bin\Debug\normnfkd.nlp
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\obj\Debug\Perceptron.MDIParent1.resources
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\obj\Debug\Perceptron.WindowRecognition.resources
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.Cache
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+C:\xampp\htdocs\Progress\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
